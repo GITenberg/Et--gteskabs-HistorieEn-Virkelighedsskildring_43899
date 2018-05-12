@@ -1,0 +1,27 @@
+_repo: Et--gteskabs-HistorieEn-Virkelighedsskildring_43899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43899-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Østergaard, Vilhelm
+    alias: Ostergaard, Vilhelm
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '42462'
+    url: http://www.gutenberg.org/2009/agents/42462
+description: ''
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43899'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction'
+title: 'Et Ægteskabs Historie: En Virkelighedsskildring'
+url: http://www.gutenberg.org/ebooks/43899
